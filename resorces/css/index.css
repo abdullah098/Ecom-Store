@@ -1,0 +1,13 @@
+.banner-home{
+	background-image: url(../images/banner-bg.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+
+.banner-home .caption{
+    background-color: rgba(250,250,250,0.9);
+	max-width: 400px;
+}
+
+
